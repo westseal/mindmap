@@ -1,0 +1,2374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="594mm"
+   height="420mm"
+   viewBox="0 0 594 420"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="englisih mind map.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker6241"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6239" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6069"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6067" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5815"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5813" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5409"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5407" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5241"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5239" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4621"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4619" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3201"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3199" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3073"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3071" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2977"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2975" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2830"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2828" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2728"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2726" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2554"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2552" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2432"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2430" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2370"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2368" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2286"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2284" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2228"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2226" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1954" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Wax Bump"
+       id="filter3665">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="blur1"
+         id="feGaussianBlur3633" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood3635" />
+      <feColorMatrix
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1"
+         id="feColorMatrix3637" />
+      <feColorMatrix
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix3639" />
+      <feFlood
+         flood-color="rgb(225,0,38)"
+         flood-opacity="1"
+         result="flood2"
+         id="feFlood3641" />
+      <feComposite
+         in="flood2"
+         in2="colormatrix2"
+         operator="out"
+         result="composite1"
+         id="feComposite3643" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur2"
+         id="feGaussianBlur3645" />
+      <feSpecularLighting
+         in="blur2"
+         lighting-color="#ffffff"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular"
+         id="feSpecularLighting3649">
+        <feDistantLight
+           elevation="60"
+           azimuth="225"
+           id="feDistantLight3647" />
+      </feSpecularLighting>
+      <feBlend
+         in="specular"
+         in2="blur2"
+         specularConstant="1"
+         mode="screen"
+         result="blend1"
+         id="feBlend3651" />
+      <feComposite
+         in="blend1"
+         in2="blur2"
+         operator="atop"
+         result="composite2"
+         id="feComposite3653" />
+      <feMerge
+         result="merge"
+         id="feMerge3659">
+        <feMergeNode
+           in="colormatrix1"
+           id="feMergeNode3655" />
+        <feMergeNode
+           in="composite2"
+           id="feMergeNode3657" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         mode="screen"
+         result="blend2"
+         id="feBlend3661" />
+      <feComposite
+         in="blend2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite3663" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3667" />
+      <feGaussianBlur
+         id="feGaussianBlur3669"
+         in="fbSourceGraphic"
+         stdDeviation="1.5"
+         result="blur1" />
+      <feFlood
+         id="feFlood3671"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1" />
+      <feColorMatrix
+         id="feColorMatrix3673"
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1" />
+      <feColorMatrix
+         id="feColorMatrix3675"
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2" />
+      <feFlood
+         id="feFlood3677"
+         flood-color="rgb(225,0,38)"
+         flood-opacity="1"
+         result="flood2" />
+      <feComposite
+         in2="colormatrix2"
+         id="feComposite3679"
+         in="flood2"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3681"
+         in="composite1"
+         stdDeviation="1"
+         result="blur2" />
+      <feSpecularLighting
+         id="feSpecularLighting3683"
+         in="blur2"
+         lighting-color="#ffffff"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular">
+        <feDistantLight
+           id="feDistantLight3685"
+           elevation="60"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feBlend
+         in2="blur2"
+         id="feBlend3687"
+         in="specular"
+         specularConstant="1"
+         mode="screen"
+         result="blend1" />
+      <feComposite
+         in2="blur2"
+         id="feComposite3689"
+         in="blend1"
+         operator="atop"
+         result="composite2" />
+      <feMerge
+         id="feMerge3691"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode3693"
+           in="colormatrix1" />
+        <feMergeNode
+           id="feMergeNode3695"
+           in="composite2" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         id="feBlend3697"
+         mode="screen"
+         result="blend2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3699"
+         in="blend2"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4041" />
+      <feGaussianBlur
+         id="feGaussianBlur4043"
+         in="fbSourceGraphic"
+         stdDeviation="1.5"
+         result="blur1" />
+      <feFlood
+         id="feFlood4045"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1" />
+      <feColorMatrix
+         id="feColorMatrix4047"
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1" />
+      <feColorMatrix
+         id="feColorMatrix4049"
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2" />
+      <feFlood
+         id="feFlood4051"
+         flood-color="rgb(255,0,255)"
+         flood-opacity="1"
+         result="flood2" />
+      <feComposite
+         in2="colormatrix2"
+         id="feComposite4053"
+         in="flood2"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4055"
+         in="composite1"
+         stdDeviation="1"
+         result="blur2" />
+      <feSpecularLighting
+         id="feSpecularLighting4057"
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular">
+        <feDistantLight
+           id="feDistantLight4059"
+           elevation="60"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feBlend
+         in2="blur2"
+         id="feBlend4061"
+         in="specular"
+         specularConstant="1"
+         mode="screen"
+         result="blend1" />
+      <feComposite
+         in2="blur2"
+         id="feComposite4063"
+         in="blend1"
+         operator="atop"
+         result="composite2" />
+      <feMerge
+         id="feMerge4065"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode4067"
+           in="colormatrix1" />
+        <feMergeNode
+           id="feMergeNode4069"
+           in="composite2" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         id="feBlend4071"
+         mode="screen"
+         result="blend2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4073"
+         in="blend2"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4505" />
+      <feGaussianBlur
+         id="feGaussianBlur4507"
+         in="fbSourceGraphic"
+         stdDeviation="1.5"
+         result="blur1" />
+      <feFlood
+         id="feFlood4509"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1" />
+      <feColorMatrix
+         id="feColorMatrix4511"
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1" />
+      <feColorMatrix
+         id="feColorMatrix4513"
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2" />
+      <feFlood
+         id="feFlood4515"
+         flood-color="rgb(0,0,255)"
+         flood-opacity="1"
+         result="flood2" />
+      <feComposite
+         in2="colormatrix2"
+         id="feComposite4517"
+         in="flood2"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4519"
+         in="composite1"
+         stdDeviation="1"
+         result="blur2" />
+      <feSpecularLighting
+         id="feSpecularLighting4521"
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular">
+        <feDistantLight
+           id="feDistantLight4523"
+           elevation="60"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feBlend
+         in2="blur2"
+         id="feBlend4525"
+         in="specular"
+         specularConstant="1"
+         mode="screen"
+         result="blend1" />
+      <feComposite
+         in2="blur2"
+         id="feComposite4527"
+         in="blend1"
+         operator="atop"
+         result="composite2" />
+      <feMerge
+         id="feMerge4529"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode4531"
+           in="colormatrix1" />
+        <feMergeNode
+           id="feMergeNode4533"
+           in="composite2" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         id="feBlend4535"
+         mode="screen"
+         result="blend2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4537"
+         in="blend2"
+         operator="in"
+         result="composite3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Wax Bump"
+       id="filter4107">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="blur1"
+         id="feGaussianBlur4075" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood4077" />
+      <feColorMatrix
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1"
+         id="feColorMatrix4079" />
+      <feColorMatrix
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix4081" />
+      <feFlood
+         flood-color="rgb(255,0,255)"
+         flood-opacity="1"
+         result="flood2"
+         id="feFlood4083" />
+      <feComposite
+         in="flood2"
+         in2="colormatrix2"
+         operator="out"
+         result="composite1"
+         id="feComposite4085" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur2"
+         id="feGaussianBlur4087" />
+      <feSpecularLighting
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular"
+         id="feSpecularLighting4091">
+        <feDistantLight
+           elevation="60"
+           azimuth="225"
+           id="feDistantLight4089" />
+      </feSpecularLighting>
+      <feBlend
+         in="specular"
+         in2="blur2"
+         specularConstant="1"
+         mode="screen"
+         result="blend1"
+         id="feBlend4093" />
+      <feComposite
+         in="blend1"
+         in2="blur2"
+         operator="atop"
+         result="composite2"
+         id="feComposite4095" />
+      <feMerge
+         result="merge"
+         id="feMerge4101">
+        <feMergeNode
+           in="colormatrix1"
+           id="feMergeNode4097" />
+        <feMergeNode
+           in="composite2"
+           id="feMergeNode4099" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         mode="screen"
+         result="blend2"
+         id="feBlend4103" />
+      <feComposite
+         in="blend2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite4105" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4573" />
+      <feGaussianBlur
+         id="feGaussianBlur4575"
+         in="fbSourceGraphic"
+         stdDeviation="1.5"
+         result="blur1" />
+      <feFlood
+         id="feFlood4577"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1" />
+      <feColorMatrix
+         id="feColorMatrix4579"
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1" />
+      <feColorMatrix
+         id="feColorMatrix4581"
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2" />
+      <feFlood
+         id="feFlood4583"
+         flood-color="rgb(0,0,255)"
+         flood-opacity="1"
+         result="flood2" />
+      <feComposite
+         in2="colormatrix2"
+         id="feComposite4585"
+         in="flood2"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4587"
+         in="composite1"
+         stdDeviation="1"
+         result="blur2" />
+      <feSpecularLighting
+         id="feSpecularLighting4589"
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular">
+        <feDistantLight
+           id="feDistantLight4591"
+           elevation="60"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feBlend
+         in2="blur2"
+         id="feBlend4593"
+         in="specular"
+         specularConstant="1"
+         mode="screen"
+         result="blend1" />
+      <feComposite
+         in2="blur2"
+         id="feComposite4595"
+         in="blend1"
+         operator="atop"
+         result="composite2" />
+      <feMerge
+         id="feMerge4597"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode4599"
+           in="colormatrix1" />
+        <feMergeNode
+           id="feMergeNode4601"
+           in="composite2" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         id="feBlend4603"
+         mode="screen"
+         result="blend2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4605"
+         in="blend2"
+         operator="in"
+         result="composite3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Wax Bump"
+       id="filter4363">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="blur1"
+         id="feGaussianBlur4331" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood4333" />
+      <feColorMatrix
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1"
+         id="feColorMatrix4335" />
+      <feColorMatrix
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix4337" />
+      <feFlood
+         flood-color="rgb(0,255,0)"
+         flood-opacity="1"
+         result="flood2"
+         id="feFlood4339" />
+      <feComposite
+         in="flood2"
+         in2="colormatrix2"
+         operator="out"
+         result="composite1"
+         id="feComposite4341" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur2"
+         id="feGaussianBlur4343" />
+      <feSpecularLighting
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular"
+         id="feSpecularLighting4347">
+        <feDistantLight
+           elevation="60"
+           azimuth="225"
+           id="feDistantLight4345" />
+      </feSpecularLighting>
+      <feBlend
+         in="specular"
+         in2="blur2"
+         specularConstant="1"
+         mode="screen"
+         result="blend1"
+         id="feBlend4349" />
+      <feComposite
+         in="blend1"
+         in2="blur2"
+         operator="atop"
+         result="composite2"
+         id="feComposite4351" />
+      <feMerge
+         result="merge"
+         id="feMerge4357">
+        <feMergeNode
+           in="colormatrix1"
+           id="feMergeNode4353" />
+        <feMergeNode
+           in="composite2"
+           id="feMergeNode4355" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         mode="screen"
+         result="blend2"
+         id="feBlend4359" />
+      <feComposite
+         in="blend2"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite3"
+         id="feComposite4361" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Wax Bump"
+       id="filter4503">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="blur1"
+         id="feGaussianBlur4471" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood4473" />
+      <feColorMatrix
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1"
+         id="feColorMatrix4475" />
+      <feColorMatrix
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix4477" />
+      <feFlood
+         flood-color="rgb(255,0,255)"
+         flood-opacity="1"
+         result="flood2"
+         id="feFlood4479" />
+      <feComposite
+         in="flood2"
+         in2="colormatrix2"
+         operator="out"
+         result="composite1"
+         id="feComposite4481" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur2"
+         id="feGaussianBlur4483" />
+      <feSpecularLighting
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular"
+         id="feSpecularLighting4487">
+        <feDistantLight
+           elevation="60"
+           azimuth="225"
+           id="feDistantLight4485" />
+      </feSpecularLighting>
+      <feBlend
+         in="specular"
+         in2="blur2"
+         specularConstant="1"
+         mode="screen"
+         result="blend1"
+         id="feBlend4489" />
+      <feComposite
+         in="blend1"
+         in2="blur2"
+         operator="atop"
+         result="composite2"
+         id="feComposite4491" />
+      <feMerge
+         result="merge"
+         id="feMerge4497">
+        <feMergeNode
+           in="colormatrix1"
+           id="feMergeNode4493" />
+        <feMergeNode
+           in="composite2"
+           id="feMergeNode4495" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         mode="screen"
+         result="blend2"
+         id="feBlend4499" />
+      <feComposite
+         in="blend2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite4501" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4539" />
+      <feGaussianBlur
+         id="feGaussianBlur4541"
+         in="fbSourceGraphic"
+         stdDeviation="1.5"
+         result="blur1" />
+      <feFlood
+         id="feFlood4543"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1" />
+      <feColorMatrix
+         id="feColorMatrix4545"
+         in="flood1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 "
+         result="colormatrix1" />
+      <feColorMatrix
+         id="feColorMatrix4547"
+         in="blur1"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="colormatrix2" />
+      <feFlood
+         id="feFlood4549"
+         flood-color="rgb(0,0,255)"
+         flood-opacity="1"
+         result="flood2" />
+      <feComposite
+         in2="colormatrix2"
+         id="feComposite4551"
+         in="flood2"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4553"
+         in="composite1"
+         stdDeviation="1"
+         result="blur2" />
+      <feSpecularLighting
+         id="feSpecularLighting4555"
+         in="blur2"
+         lighting-color="#ff8a64"
+         specularConstant="1.39999998"
+         surfaceScale="5"
+         specularExponent="35"
+         result="specular">
+        <feDistantLight
+           id="feDistantLight4557"
+           elevation="60"
+           azimuth="225" />
+      </feSpecularLighting>
+      <feBlend
+         in2="blur2"
+         id="feBlend4559"
+         in="specular"
+         specularConstant="1"
+         mode="screen"
+         result="blend1" />
+      <feComposite
+         in2="blur2"
+         id="feComposite4561"
+         in="blend1"
+         operator="atop"
+         result="composite2" />
+      <feMerge
+         id="feMerge4563"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode4565"
+           in="colormatrix1" />
+        <feMergeNode
+           id="feMergeNode4567"
+           in="composite2" />
+      </feMerge>
+      <feBlend
+         in2="composite2"
+         id="feBlend4569"
+         mode="screen"
+         result="blend2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4571"
+         in="blend2"
+         operator="in"
+         result="composite3" />
+    </filter>
+    <filter
+       inkscape:label="Dragee"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Gel Ridge with a pearlescent look"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       style="color-interpolation-filters:sRGB;"
+       id="filter8976">
+      <feGaussianBlur
+         stdDeviation="0.01"
+         result="result1"
+         id="feGaussianBlur8952" />
+      <feBlend
+         in="result1"
+         mode="screen"
+         result="result5"
+         in2="result1"
+         id="feBlend8954" />
+      <feGaussianBlur
+         stdDeviation="6"
+         result="result6"
+         id="feGaussianBlur8956" />
+      <feComposite
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result6"
+         id="feComposite8958" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         id="feColorMatrix8960" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2"
+         id="feGaussianBlur8962" />
+      <feSpecularLighting
+         specularExponent="35"
+         specularConstant="1"
+         surfaceScale="3"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting8966">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight8964" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite8968" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite8970" />
+      <feComposite
+         operator="out"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite8972" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend8974" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#5f5f5f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1161.147"
+     inkscape:cy="808.58882"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="960"
+     inkscape:window-height="1025"
+     inkscape:window-x="960"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff00ff;stroke:#00ff00;stroke-width:0.303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3665)"
+       id="rect8928"
+       width="57.477516"
+       height="13.878627"
+       x="118.3167"
+       y="305.82706"
+       ry="6.9393134"
+       transform="matrix(1.1578005,0,0,1.2222385,-14.068464,21.909356)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.090464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3167"
+       width="32.262177"
+       height="4.900353"
+       x="235.59096"
+       y="161.77853"
+       ry="2.4501765"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0854921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3169"
+       width="28.795219"
+       height="4.9034338"
+       x="209.18878"
+       y="167.20805"
+       ry="2.4517169"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0938538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3165"
+       width="34.76273"
+       height="4.895072"
+       x="163.93185"
+       y="138.90964"
+       ry="2.447536"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.262639;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4107)"
+       d="m 288.07612,340.3953 h 59.07811 v 0 34.4465 c 0,6.5693 -5.89031,11.85793 -13.20698,11.85793 H 301.2831 c -7.31667,0 -13.20698,-5.28863 -13.20698,-11.85793 z"
+       id="rect2928"
+       sodipodi:nodetypes="cccssssc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2808"
+       width="42.736904"
+       height="16.327429"
+       x="36.822182"
+       y="192.54204"
+       ry="8.1637144"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8976)"
+       id="path1901"
+       cx="322.19052"
+       cy="168.51157"
+       r="21.788542"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:39.9459;fill:#ffffff;stroke-width:0.264583"
+       x="103.83608"
+       y="148.99095"
+       id="text835"
+       transform="translate(232.37422,93.013902)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="103.83608"
+         y="148.99095"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Involved in </tspan></tspan><tspan
+         x="103.83608"
+         y="154.28261"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Human rights</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:65.4274;fill:#ffffff;stroke-width:0.264583"
+       x="26.619696"
+       y="23.531677"
+       id="text839"
+       transform="translate(239.62913,65.330418)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="26.619696"
+         y="23.531677"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">I always ask myself </tspan></tspan><tspan
+         x="26.619696"
+         y="28.823339"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">questions and often </tspan></tspan><tspan
+         x="26.619696"
+         y="34.115002"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">question things.</tspan></tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0900339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2215"
+       width="31.969732"
+       height="4.8982644"
+       x="286.94852"
+       y="135.79875"
+       ry="2.4491322"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';letter-spacing:0px;white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text847"
+       transform="translate(272.05983,66.029672)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan
+           style="fill:#ffffff">I disagree with social </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan
+           style="fill:#ffffff">norms, especially about </tspan></tspan><tspan
+         x="19.861629"
+         y="73.417784"><tspan
+           style="fill:#000000">Identity.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="295.58273"
+       y="154.2162"
+       id="text855"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan925"
+         x="295.58273"
+         y="154.2162"
+         style="fill:#ffffff;stroke-width:0.264583">White</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="296.98157"
+       y="160.39607"
+       id="text859"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="296.98157"
+         y="160.39607"
+         style="fill:#ffffff;stroke-width:0.264583">middle class</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="312.87784"
+       y="169.97141"
+       id="text863"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan931"
+         x="312.87784"
+         y="169.97141"
+         style="fill:#ffffff;stroke-width:0.264583">Not heterosexual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="299.54565"
+       y="176.11551"
+       id="text867"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="299.54565"
+         y="176.11551"
+         style="fill:#ffffff;stroke-width:0.264583">Not cisgender</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text871"
+       transform="translate(211.91962,90.103774)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">discomfort with the </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">girl identity since </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">childhood</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="340.76743"
+       y="72.810814"
+       id="text875"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="340.76743"
+         y="72.810814"
+         style="fill:#ffffff;stroke-width:0.264583">sociology studies</tspan><tspan
+         sodipodi:role="line"
+         x="340.76743"
+         y="78.102478"
+         style="fill:#ffffff;stroke-width:0.264583"
+         id="tspan4607">+</tspan><tspan
+         sodipodi:role="line"
+         x="340.76743"
+         y="83.394142"
+         style="fill:#ffffff;stroke-width:0.264583"
+         id="tspan4609">design studies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:52.8988;fill:#ffffff;stroke-width:0.264583"
+       x="33.797852"
+       y="124.70788"
+       id="text879"
+       transform="translate(260.12119,93.569909)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="33.797852"
+         y="124.70788"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">fighting homophobia, </tspan></tspan><tspan
+         x="33.797852"
+         y="129.99954"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">transphobia, </tspan></tspan><tspan
+         x="33.797852"
+         y="135.2912"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">patriarchy,
+</tspan></tspan><tspan
+         x="33.797852"
+         y="140.58285"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">racism and against </tspan></tspan><tspan
+         x="33.797852"
+         y="145.87451"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">any</tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583"> kind of </tspan></tspan><tspan
+         x="33.797852"
+         y="151.16617"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">injustice </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text883"
+       transform="translate(88.506509,11.018411)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">discomfort with the </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">capitalist system</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text887"
+       transform="translate(89.782209,-11.145129)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">but need money to </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">eat </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text891"
+       transform="translate(288.88913,51.282034)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">queer</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text895"
+       transform="translate(14.212836,48.444543)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text899"
+       transform="translate(120.76057,25.029921)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">questionning </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#000000">capitalism</tspan></tspan></text>
+    <rect
+       style="fill:#ff00ff;stroke:#00ff00;stroke-width:0.302379;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4503)"
+       id="rect4367"
+       width="54.315804"
+       height="32.519558"
+       x="111.19736"
+       y="59.324448"
+       ry="16.259779"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text903"
+       transform="translate(72.923519,-46.060195)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">What is an </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">anticapitalist </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">design ? And </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Designer ? Is it </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Art ?</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text2542"
+       transform="translate(-7.2685008,151.46175)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Questionning our </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">food system, should </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">we eat animals ? </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Should we exploit </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">animals ?</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text911"
+       transform="translate(58.204983,-5.8403143)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text915"
+       transform="translate(-22.240871,134.19715)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">vegetarian, </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">questionning </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">veganism</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="46.345867"
+       y="112.21364"
+       id="text923"
+       transform="translate(332.57791,48.738416)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">rejecting the idea </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">that being in a </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">couple and starting </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">a family is a </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">successful life </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text931"
+       transform="translate(248.31863,233.30401)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">Exhausted by </tspan><tspan
+           style="fill:#ffffff">white </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff">middle class </tspan><tspan
+           style="fill:#ffffff">hetero </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff">male product </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff">designers, graphic </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="fill:#ffffff">designers, </tspan></tspan><tspan
+         x="46.345867"
+         y="138.67195"><tspan
+           style="fill:#ffffff">architects we are </tspan></tspan><tspan
+         x="46.345867"
+         y="143.96361"><tspan
+           style="fill:#ffffff">learning from in </tspan></tspan><tspan
+         x="46.345867"
+         y="149.25526"><tspan
+           style="fill:#ffffff">design school.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text935"
+       transform="translate(248.35085,185.4156)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Exhausted by </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">white </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">middle and </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">upper </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">class hetero </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">male </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">history, </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">litterature, </tspan></tspan><tspan
+         x="46.345867"
+         y="138.67195"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">philosophy, art, </tspan></tspan><tspan
+         x="46.345867"
+         y="143.96361"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">language, politics, </tspan></tspan><tspan
+         x="46.345867"
+         y="149.25526"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">society</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text939"
+       transform="translate(248.1082,147.78273)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">Exhausted by </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">upper </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">class hetero </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">male </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">values.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text947"
+       transform="translate(247.57556,169.37962)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan>Don't believe in </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan>the national myth.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="322.39429"
+       y="187.28645"
+       id="text951"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1185"
+         x="322.39429"
+         y="187.28645"
+         style="fill:#ffffff;stroke-width:0.264583">feminist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:34.7457;fill:#ffffff;stroke-width:0.264583"
+       x="8.9222651"
+       y="79.833809"
+       id="text955"
+       transform="translate(337.52579,119.00887)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="8.9222651"
+         y="79.833809"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">questionni</tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">ng </tspan></tspan><tspan
+         x="8.9222651"
+         y="85.125471"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">the </tspan><tspan
+           style="fill:#ffffff;stroke-width:0.264583">different </tspan></tspan><tspan
+         x="8.9222651"
+         y="90.417135"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">forms of </tspan></tspan><tspan
+         x="8.9222651"
+         y="95.708799"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">eminism</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="388.34045"
+       y="227.15732"
+       id="text959"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1205"
+         x="388.34045"
+         y="227.15732"
+         style="fill:#ffffff;stroke-width:0.264583">eco feminism</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="361.10291"
+       y="222.15862"
+       id="text963"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1208"
+         x="361.10291"
+         y="222.15862"
+         style="fill:#ffffff;stroke-width:0.264583">decolonial feminism</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text967"
+       transform="translate(111.67404,93.750349)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="150.95366"
+       y="87.815041"
+       id="text971"><tspan
+         sodipodi:role="line"
+         id="tspan1212"
+         x="150.95366"
+         y="87.815041"
+         style="fill:#ffffff;stroke-width:0.264583" /></text>
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0771796;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3183"
+       width="23.366951"
+       height="4.9246211"
+       x="174.85756"
+       y="191.59077"
+       ry="2.4623106"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0753276;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3185"
+       width="22.311722"
+       height="4.912971"
+       x="149.18076"
+       y="196.76448"
+       ry="2.4564855"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text979"
+       transform="translate(104.2581,77.969744)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan>always wondering </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan>what will </tspan><tspan
+           style="fill:#000000">life be </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#000000">in 2040. </tspan><tspan>
+</tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan>How will be the </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan>world. </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text983"
+       transform="translate(60.729899,113.14737)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">thinking about </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">frugality and </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">alternativ ways of </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">life</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text987"
+       transform="translate(53.783419,27.168594)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">questionning the </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">impact of the </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">capitalist and </tspan></tspan><tspan
+         x="46.345867"
+         y="128.08863"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">productivist way of </tspan></tspan><tspan
+         x="46.345867"
+         y="133.38029"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">life</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text991"
+       transform="translate(11.366019,7.5300913)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">dealing with this </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">and my angst of </tspan></tspan><tspan
+         x="46.345867"
+         y="122.79696"><tspan
+           style="fill:#ffffff;stroke-width:0.264583">doing nothing.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text1845"
+       transform="translate(12.672929,103.54882)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">life in community</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text1867"
+       transform="translate(185.38987,124.07425)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">internship at </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff">Constant</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="46.345867"
+       y="112.21364"
+       id="text1869"
+       transform="translate(-4.5337508,87.406461)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">internship at </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none">Saisons Zero </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text1871"
+       transform="translate(1.8685392,110.5593)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">What about the </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan
+           style="fill:#ffffff">commons ? </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text1873"
+       transform="translate(48.072649,96.990751)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan
+           style="fill:#ffffff">eco-village ?</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 280.07088,105.29171 20.55191,17.89078"
+       id="path1909"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#00ff00;stroke-width:0.276607;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1913"
+       width="61.389915"
+       height="24.076838"
+       x="259.71991"
+       y="81.26947"
+       ry="12.038419"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.162827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4363)"
+       id="rect1915"
+       width="36.847313"
+       height="13.899966"
+       x="258.37827"
+       y="14.449327"
+       ry="6.9499831"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.18899px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:65.4274;fill:#000000;stroke-width:0.264583"
+       x="26.619696"
+       y="23.531677"
+       id="text1929"
+       transform="matrix(1.3274857,0,0,1.3274857,229.18369,-9.6941207)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="26.619696"
+         y="23.531677"><tspan>who am i ?</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2228)"
+       d="m 343.92829,164.34915 29.99364,4.67833"
+       id="path2224"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2370)"
+       d="m 333.55404,186.89266 11.0566,17.57087"
+       id="path2366"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2432)"
+       d="M 304.42584,181.01021 293.6071,195.32334"
+       id="path2428"
+       inkscape:transform-center-x="14.623809"
+       inkscape:transform-center-y="-13.014194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:0.277177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2520"
+       width="59.180504"
+       height="134.51973"
+       x="287.97372"
+       y="252.17999"
+       ry="13.20698"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2554)"
+       d="m 280.07088,105.29171 -39.73344,48.15882"
+       id="path2550"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text2638"
+       transform="translate(191.62073,97.307686)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>worried and anxious </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan>about the</tspan><tspan
+           style="fill:#000000"> collapse of </tspan></tspan><tspan
+         x="19.861629"
+         y="73.417784"><tspan
+           style="fill:#000000">the earth</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2728)"
+       d="M 207.75206,164.96516 192.06187,149.40482"
+       id="path2724"
+       inkscape:transform-center-x="-14.748053"
+       inkscape:transform-center-y="-12.873226"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2818"
+       width="42.736904"
+       height="16.327429"
+       x="226.9897"
+       y="229.26849"
+       ry="8.1637144"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2830)"
+       d="m 207.75206,164.96516 -16.1071,15.77671"
+       id="path2826"
+       inkscape:transform-center-x="19.059001"
+       inkscape:transform-center-y="-4.469845"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2977)"
+       d="M 95.197569,147.90633 77.403319,134.804"
+       id="path2973"
+       inkscape:transform-center-x="-14.150906"
+       inkscape:transform-center-y="-13.277847"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3073)"
+       d="m 147.37761,118.06116 4.22236,-13.04868"
+       id="path3069"
+       inkscape:transform-center-x="-16.698232"
+       inkscape:transform-center-y="10.217339"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff00ff;stroke:#00ff00;stroke-width:0.303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3665)"
+       id="rect3413"
+       width="57.477516"
+       height="13.878627"
+       x="105.54096"
+       y="251.00003"
+       ry="6.9393134"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:50.705;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text3409"
+       transform="translate(63.718089,143.92548)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan>prospective design 
+</tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan>and critical design</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4621)"
+       d="M 320.78742,93.271646 336.34776,77.581457"
+       id="path4617"
+       inkscape:transform-center-x="-12.873226"
+       inkscape:transform-center-y="14.748053"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5409)"
+       d="m 171.50996,212.22156 34.79849,62.27552"
+       id="path5405"
+       inkscape:transform-center-x="18.656405"
+       inkscape:transform-center-y="5.9298875"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5815)"
+       d="m 171.50996,212.22156 -15.17869,14.55435"
+       id="path5811"
+       inkscape:transform-center-x="15.849947"
+       inkscape:transform-center-y="-11.489308"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0945221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5983"
+       width="35.268925"
+       height="4.8937764"
+       x="207.5901"
+       y="284.2399"
+       ry="2.4468882"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5963"
+       transform="translate(163.54408,219.69008)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>worried about how the </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan>growth of </tspan><tspan
+           style="fill:#000000">technologies</tspan><tspan> </tspan></tspan><tspan
+         x="19.861629"
+         y="73.417784"><tspan>will impact our life </tspan></tspan><tspan
+         x="19.861629"
+         y="78.709448"><tspan>and our rights </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5965"
+       transform="translate(102.34727,256.71149)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>surveillance</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5967"
+       transform="translate(97.526304,264.20939)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan
+           style="font-style:italic">IA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5971"
+       transform="translate(116.07205,262.1646)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>human relations</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5973"
+       transform="translate(160.14944,247.71951)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>inequalities</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5975"
+       transform="translate(144.81114,254.39204)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>&amp; discriminations</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text5981"
+       transform="translate(89.549844,271.41851)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>migrations</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.238272;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6241)"
+       d="m 275.90854,27.841463 -0.0417,47.46963"
+       id="path6237"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff00ff;stroke:#00ff00;stroke-width:0.303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3665)"
+       id="rect6445"
+       width="57.477516"
+       height="13.878627"
+       x="118.3167"
+       y="305.82706"
+       ry="6.9393134"
+       transform="matrix(1.3594555,0,0,1.1975745,193.34826,-15.722099)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:67.8727;fill:#ffffff;stroke-width:0.264583"
+       x="46.345867"
+       y="112.21364"
+       id="text6447"
+       transform="translate(313.52819,245.03344)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="46.345867"
+         y="112.21364"><tspan>What will feminist </tspan><tspan>and </tspan></tspan><tspan
+         x="46.345867"
+         y="117.5053"><tspan>decolonial pedagogy be ? </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text7398"
+       transform="translate(188.02486,277.83389)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>open source </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text7404"
+       transform="translate(200.01624,282.42661)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>free culture</tspan></tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.111283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8930"
+       width="49.053833"
+       height="4.8770156"
+       x="160.22"
+       y="377.81311"
+       ry="2.4385078"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';letter-spacing:0px;white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text8922"
+       transform="translate(143.07701,288.68089)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>How digital tools can </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan>enrich access to </tspan></tspan><tspan
+         x="19.861629"
+         y="73.417784"><tspan>knowledge ? </tspan></tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0742656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8934"
+       width="21.682352"
+       height="4.9140329"
+       x="189.64369"
+       y="367.36917"
+       ry="2.4570165"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#00ff00;stroke:#00ff00;stroke-width:0.0668408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8936"
+       width="17.537149"
+       height="4.9214578"
+       x="160.21629"
+       y="372.89536"
+       ry="2.4607289"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';letter-spacing:0px;white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text8924"
+       transform="translate(143.07701,308.16314)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>How to use </tspan><tspan
+           style="fill:#000000">digital </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan
+           style="fill:#000000">tools</tspan><tspan> to prepare a </tspan></tspan><tspan
+         x="19.861629"
+         y="73.417784"><tspan
+           style="fill:#000000">resilient society</tspan><tspan> where </tspan></tspan><tspan
+         x="19.861629"
+         y="78.709448"><tspan>ressources are shared ?</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';letter-spacing:0px;white-space:pre;inline-size:60.3623;fill:#ffffff;stroke-width:0.264583"
+       x="19.861629"
+       y="62.834454"
+       id="text8926"
+       transform="translate(113.98202,339.47319)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="19.861629"
+         y="62.834454"><tspan>What can a media </tspan></tspan><tspan
+         x="19.861629"
+         y="68.126119"><tspan>designer do ?</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5409)"
+       d="m 238.66646,292.67065 -31.948,69.7881"
+       id="path3577"
+       inkscape:transform-center-x="-18.6564"
+       inkscape:transform-center-y="5.9298875"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
